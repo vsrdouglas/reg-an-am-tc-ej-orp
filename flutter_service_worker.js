@@ -40,9 +40,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "cbb992ff8d4a92961e027743293878f9",
-"/": "cbb992ff8d4a92961e027743293878f9",
-"main.dart.js": "af56cc47b394de070e63aac38e8d8b89",
+"index.html": "24c84b905229d2a42e1fa0da0e77bb77",
+"/": "24c84b905229d2a42e1fa0da0e77bb77",
+"main.dart.js": "747107583b393e7656c7acc6ce72b75b",
 "manifest.json": "e29c46501d99dfc951abf3fb36aa75b4",
 "splash/img/dark-1x.png": "799594a11e75a27fbf92e71d9cf5b1ea",
 "splash/img/dark-2x.png": "fbfd6be00cac6bd6e59d565b92014ff9",
@@ -53,7 +53,7 @@ const RESOURCES = {
 "splash/img/light-3x.png": "9bff0078fa3b63447863c04a503a5f54",
 "splash/img/light-4x.png": "2f112ec05b95930dcbec8402f16b04d6",
 "splash/style.css": "dc159a1d8652b80837ff4bd7607c52df",
-"version.json": "be6800f0e51212680faaaf7451f95362"
+"version.json": "874f34d08fee69c4e2a27e0b94c9341c"
 };
 
 // The application shell files that are downloaded before a service worker can
