@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "1ab4592a1d3b2be3e73e616189036f54",
+  "assets/AssetManifest.json": "b107c4704f47c8eef9e58d0752fae122",
 "assets/FontManifest.json": "a862a402bca967396ddf6d15240157b4",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/fonts/Montserrat-ExtraBold.ttf": "19ba7aa52a78c3896558ac1c0a5fb4c7",
@@ -11,11 +11,11 @@ const RESOURCES = {
 "assets/images/appBarLogo.JPG": "201bf3ed0fba1a43fe6cb56ab0fbbc7f",
 "assets/images/appBarLogo.PNG": "93d9185a04930976cf43561c7f20ace4",
 "assets/images/appBarLogo1.png": "e88494827255708825932a1f12616cf2",
+"assets/images/equipment.png": "8cb724aec20ab2cfea7d84a74de57688",
 "assets/images/group.png": "0cdd13c4af4f30b3757d791271cb088a",
 "assets/images/group_selected.png": "b5ff2e1581d128fa2b866cf4c444d260",
 "assets/images/home.png": "806290e66b09a32e26f92d9dafe21cd7",
 "assets/images/Home_select.png": "0cb51f7b86be9a6976dcafa4eaaf879d",
-"assets/images/laptop1.png": "8cb724aec20ab2cfea7d84a74de57688",
 "assets/images/laptop_select.png": "47961525a4d8ab4d7104f95a8809aa61",
 "assets/images/pdf_logo.png": "ec41ee69f45547f2957dd399e1e4d15c",
 "assets/images/pdf_logo.webp": "13aa2a23bacf9b4c08d808c2d11b69da",
@@ -42,9 +42,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "13b7a602f0a9773815d5ca2f814086b2",
-"/": "13b7a602f0a9773815d5ca2f814086b2",
-"main.dart.js": "94e6af352e62170550ae8c1415d6a9d2",
+"index.html": "e26d4bf0ffb8bc95ec4c1ed35a10f9d9",
+"/": "e26d4bf0ffb8bc95ec4c1ed35a10f9d9",
+"main.dart.js": "902ffb0266c961b8a53c859c2106f6d5",
 "manifest.json": "e29c46501d99dfc951abf3fb36aa75b4",
 "splash/img/dark-1x.png": "799594a11e75a27fbf92e71d9cf5b1ea",
 "splash/img/dark-2x.png": "fbfd6be00cac6bd6e59d565b92014ff9",
@@ -55,7 +55,7 @@ const RESOURCES = {
 "splash/img/light-3x.png": "9bff0078fa3b63447863c04a503a5f54",
 "splash/img/light-4x.png": "2f112ec05b95930dcbec8402f16b04d6",
 "splash/style.css": "dc159a1d8652b80837ff4bd7607c52df",
-"version.json": "7bef30076928b7d823c275ee6e7ac678"
+"version.json": "a82200c474625921afa3126a934dc089"
 };
 
 // The application shell files that are downloaded before a service worker can
